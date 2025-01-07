@@ -41,6 +41,14 @@ INSTALLED_APPS = [
     'user_dashboard',
     'user_auth',
     'addon',
+
+    # Third Party Apps
+    'import_export',
+    'crispy_forms',
+    'taggit',
+    'ckeditor',
+    'ckeditor_uploader',
+    'django_ckeditor_5',
 ]
 
 MIDDLEWARE = [
