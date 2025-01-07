@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     # Custom Apss
     'hotel_app',
     'user_dashboard',
-    'user_auth',
+    'userauths',
     'addon',
 
     # Third Party Apps
