@@ -65,6 +65,7 @@ MIDDLEWARE = [
 ]
 
 ROOT_URLCONF = 'hotel.urls'
+AUTH_USER_MODEL = 'userauths.User'
 
 TEMPLATES = [
     {
