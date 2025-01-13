@@ -154,8 +154,10 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 # Custom Admin Settings
 JAZZMIN_SETTINGS = {
     'site_header': "Hotel Management",
-    'site_brand': "Your #1 marketplace for collectibles.",
-    'site_logo': "/images/logo.png",
+    'site_brand': "Admin Panel",
+    'site_logo': "img/favicon.png",
+    'site_icon': "img/favicon.png",
+    'site_title': "Hotel Management",
     'copyright': "All Right Reserved 2025",
     "welcome_sign": "Welcome to Hotel Management, Login Now.",
     "topmenu_links": [
